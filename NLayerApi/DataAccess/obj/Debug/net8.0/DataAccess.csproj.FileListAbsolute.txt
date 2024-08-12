@@ -1,0 +1,54 @@
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\bin\Debug\net8.0\Common.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\bin\Debug\net8.0\Common.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CopyComplete
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\Mon hoc tren lop\Thuc Tap FPT\NewMoc\NLayerApi\NLayerApi\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\bin\Debug\net8.0\DataAccess.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\bin\Debug\net8.0\Common.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\bin\Debug\net8.0\Common.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+A:\Projects\FinalProjectFsoftJuly2024V2\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\bin\Debug\net8.0\Common.dll
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\bin\Debug\net8.0\Common.pdb
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+D:\Assigment\Mock_Project\Final_Team2_FPT\NLayerApi\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
